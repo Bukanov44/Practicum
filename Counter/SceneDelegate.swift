@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Counter
+//  Counter Hard
 //
 //  Created by Sergey Bukanov on 09.08.2024.
 //
